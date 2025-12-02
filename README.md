@@ -1,13 +1,13 @@
 # Track Profiling
 
-A desktop application for managing and smoothing railway track profiles.
+A desktop application for managing and smoothening of railway track profiles.
 
 ## Features
 
 -   **Import Data**: Load Station and Existing Rail Levels (ERL) from Excel.
 -   **Profile Management**: View and edit Station, ERL, and Proposed Rail Levels (PRL).
 -   **Visualization**: Interactive plot showing ERL (Blue) and PRL (Red) profiles.
--   **Calculation**: Automatically calculate smoothed profiles based on Max Lift and Max Lower constraints.
+-   **Calculation**: Automatically calculate smoothened profiles based on Max Lift and Max Lower constraints.
 -   **Validation**: Highlight rows that exceed defined lift/lower limits.
 -   **Distribution Report**: Generate interpolated lift values for sub-stations (sleepers) between main stations.
 -   **Export**: Export full results and reports to Excel.
