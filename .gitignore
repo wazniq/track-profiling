@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv/
+
+# Distribution / Packaging
+dist/
+build/
+*.spec
+
+# Database
+# We ignore the actual DB file so users start fresh or don't commit their data
+track_profiling.db
+
+# IDEs
+.vscode/
+.idea/
